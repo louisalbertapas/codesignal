@@ -1,8 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
 namespace codesignal.Arcade.Core.CornerOf0sAnd1s
 {
     // You are given an array of up to four non-negative integers, each less than 256.
