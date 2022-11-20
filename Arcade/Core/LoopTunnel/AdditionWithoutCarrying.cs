@@ -15,7 +15,7 @@ namespace codesignal.Arcade.Core.LoopTunnel
     // 5 + 3 = 8
     // 4 + 7 = 11 but the child forgets about the leading 1 and just writes down 1 under 4 and 7.
     // There is no digit in the first number corresponding to the leading digit of the second one, so the child imagines that 0 is written before 456. Thus, they get 0 + 1 = 1.
-    public class AdditionWithoutCarrying
+    public static class AdditionWithoutCarrying
     {
         public static int solution(int param1, int param2)
         {

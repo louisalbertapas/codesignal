@@ -5,7 +5,7 @@ namespace codesignal.Arcade.Core.LoopTunnel
     // For a = 1, b = 2, and n = 2, the output should be
     // solution(a, b, n) = 8.
     // You will cast your first marble and get $2, after which the numbers will become 2 and 3. When you cast your second marble, the well will give you $6. Overall, you'll make $8. So, the output is 8.
-    public class MagicalWell
+    public static class MagicalWell
     {
         public static int solution(int a, int b, int n)
         {
